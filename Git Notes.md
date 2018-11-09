@@ -20,7 +20,8 @@
 - pushing a local branch to github/gitlab `git push -u origin branch-name`
 - merging a branch into **master branch**
     `git checkout master`
-    `git merge branch-name`
+- then,
+        `git merge branch-name`
 - Delete a branch locally     `git branch -d branch-name`
 - Delete a branch remotely `git push -u origin --delete branch-name`
 ### Adding description to git branches
