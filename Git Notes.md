@@ -79,7 +79,7 @@ git config branch.branch-name.description
 ```php
 git branch --edit-description
 ```
-## Pull a remote branches
+## Pull remote branches
 - first run
 ```php
 git pull
